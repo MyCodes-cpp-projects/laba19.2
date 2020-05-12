@@ -10,6 +10,6 @@ public:
 	Components(bool metal);
 	virtual ~Components();
 
-	virtual void display();
+	virtual void displayall();
 };
 

@@ -13,7 +13,7 @@ Components::~Components()
 {
 }
 
-void Components::display()
+void Components::displayall()
 {
 	std::cout << "Is metal detail? " << metal << std::endl;
 }
